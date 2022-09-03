@@ -1,0 +1,33 @@
+{
+	"titleBarName": "Soulles DX - Milk Demo",
+	"intro": {
+		"authors": [
+			"gray - faye",
+			"saster - taeskull",
+			"squeak - punkett",
+			"gibz"
+		],
+		"gameName": [
+			"soul",
+			"es",
+			"dx"
+		],
+		"newgrounds": "tails doll",
+		"bpm": 128,
+		"assoc": [
+			"poopy poopy",
+			"fart head"
+		],
+		"present": "we shat"
+	},
+	"skinnableBFs": [],
+	"skinnableGFs": [],
+	"GFskins": [],
+	"keyNumbers": [
+		4
+	],
+	"BFskins": [],
+	"name": "Soulles DX",
+	"locked": false,
+	"description": "Soulless but finished. with extra songs too "
+}
